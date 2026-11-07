@@ -1,0 +1,11 @@
+data/*
+!data/.gitkeep
+
+embeddings/esm2/*
+embeddings/prott5/*
+!embeddings/esm2/.gitkeep
+!embeddings/prott5/.gitkeep
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
